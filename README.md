@@ -18,7 +18,8 @@ No need to write SQL manually – just upload your CSV, ask a question, and let 
 ---
 
 ## 🖼️ Demo Screenshot  
-*(Optional – add a screenshot here once you run the app and take a snapshot)*  
+<img width="2920" height="1620" alt="image" src="https://github.com/user-attachments/assets/3dd410a5-fb0d-49e4-a29e-91c3fe9a051a" />
+
 
 ---
 
