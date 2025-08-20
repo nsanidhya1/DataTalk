@@ -4,6 +4,8 @@ DataTalk lets you **query CSV files in plain English** and automatically generat
 
 No need to write SQL manually – just upload your CSV, ask a question, and let AI do the work 🚀  
 
+Live Demo : https://fc238757e42dddbd30.gradio.live/
+
 ---
 
 ## ✨ Features  
